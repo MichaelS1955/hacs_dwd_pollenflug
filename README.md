@@ -75,7 +75,8 @@ A minimalistic example in combination with [Lovelace-Mushroom-Cards](https://git
 ![](images/dwd-pollenflug-minimalistic.png)
 
 To configure:
-
+* Attention:
+  The number of the entity depends on the selected region. In the code e.g. sensor_pollenflug_graeser_124. When you made the setup of DWD Pollenflug you should have a look to the entities to find the number of your selected region
 * Edit your dashboard
 * Add a new Mushroom-Template-Card and copy/paste:
 
